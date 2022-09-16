@@ -1,5 +1,6 @@
+
 //Programa que presenta las operaciones básicas
-//Creado por Dayana García 
+//Creado por Dayana García
 //Fecha: 14-09-2022
 
 #include<iostream>
@@ -12,7 +13,7 @@ int main()
 	cout<<"Ingrese en valor de x=:";
 	cin>>x;
 	cout<<"Ingrese en valor de y=:";
-	//Operaciones 
+	//Operaciones
 	cin>>y;
 	s=x+y;
 	m=x*y;
